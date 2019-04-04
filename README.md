@@ -9,3 +9,6 @@ To Run:
 $ ./batsetup.sh user_name your_password ip_address_you_want_for_BATMAN
 
 adding an IP address is optional
+
+
+some of the script is taken from EveningStarNM's reddit post: https://www.reddit.com/r/darknetplan/comments/68s6jp/how_to_configure_batmanadv_on_the_raspberry_pi_3/
