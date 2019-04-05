@@ -8,6 +8,8 @@ To Run:
 
 $ ./batsetup.sh user_name your_password ip_address_you_want_for_BATMAN
 
+This is configured to connect to the University of North Texas Wifi. To change to your enterprise network, change the essid to <my network name>
+
 adding an IP address is optional
 
 
